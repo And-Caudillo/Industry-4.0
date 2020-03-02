@@ -1,0 +1,7 @@
+ CVS Introduction 
+ Create a new project in a GIT plafform (GitHub or GitLab for example) with a readme file and activities you have up to this point:
+  - Activity 01 – Python introduction 
+  - Activity 02 – Simple AI 
+  - Activity 04 – Target creation for Augmented Reality 
+  - Knowledge : Practice Report
+  
